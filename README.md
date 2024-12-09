@@ -29,7 +29,7 @@
 
 #### 💻 주요 기술
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="sql-logo.png" alt="SQL" width="40"/> **SQL**
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="r-logo.png" alt="R" width="40"/> **R** (matplotlib)
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="r-logo.png" alt="R" width="40"/>  **R** (matplotlib)
 
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
