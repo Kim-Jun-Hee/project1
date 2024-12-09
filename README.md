@@ -32,7 +32,7 @@
 
 #### 🛠️ 도구
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="100" style="vertical-align: middle;">
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="https://www.rstudio.com/assets/img/og/rstudio.png" alt="RStudio Logo" width="100" style="vertical-align: middle;">
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Blue-Gray.png" alt="RStudio Logo" width="100" style="vertical-align: middle;">
 
 ### 🏆 주요 결과물
 <table>
