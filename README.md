@@ -51,7 +51,7 @@
       <img src="corr.png" alt="상관관계" width="400">
     </td>
     <td>
-      <img src="return.png" alt="다중 회귀분석" width="500">
+      <img src="return.png" alt="다중 회귀분석" width="400">
     </td>
   </tr>
   <tr>
@@ -60,10 +60,10 @@
   </tr>
   <tr>
     <td>
-      <img src="holiday.png" alt="명절" width="500">
+      <img src="holiday.png" alt="명절" width="400">
     </td>
     <td>
-      <img src="error.png" alt="오배송" width="500">
+      <img src="error.png" alt="오배송" width="400">
     </td>
   </tr>
 </table>
