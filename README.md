@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="상관관계" width="500">
+      <img src="corr.png" alt="상관관계" width="400">
     </td>
     <td>
       <img src="return.png" alt="다중 회귀분석" width="500">
