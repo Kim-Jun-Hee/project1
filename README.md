@@ -31,8 +31,8 @@
 - SQL,R(matplotlib)
 
 #### 🛠️ 도구 
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <tr style="border: 1px solid white;">
+<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid white;">
+  <tr>
     <td style="border: 1px solid white;">
       <img src="oracle.png?raw=true" alt="Oracle Logo" width="120">
     </td>
