@@ -37,10 +37,8 @@
   <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120" style="display: block;">
 </div>
 
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="100" style="vertical-align: middle;">
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
-<img src="https://cdn.jsdelivr.net/gh/rstudio/hex-stickers@main/SVG/rstudio.svg" alt="RStudio Logo" width="100" style="vertical-align: middle;">
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="100" style="vertical-align: middle;">
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="RStudio.png?raw=true" alt="RStudio Logo" width="100" style="vertical-align: middle;">
 
 
 ### 🏆 주요 결과물
