@@ -33,7 +33,7 @@
 #### 🛠️ 도구
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="oracle.png?raw=true" alt="Oracle Logo" width="150">
-  <img src="rstudio.png?raw=true" alt="RStudio Logo" width="150">
+  <img src="RStudio.png?raw=true" alt="RStudio Logo" width="150">
 </div>
 
 ### 🏆 주요 결과물
