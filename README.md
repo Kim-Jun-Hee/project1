@@ -35,7 +35,7 @@
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="120" style="display: block;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="RStudio.png" alt="RStudio Logo" width="120" style="margin-top: 10px; display: block;">
+  <img src="RStudio.png" alt="RStudio Logo" width="120">
 </div>
 
 
