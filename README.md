@@ -36,7 +36,7 @@
   <img src="oracle.png?raw=true" alt="Oracle Logo" width="120" style="display: block;">
   <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120" style="display: block;">
 </div>
-
+| ![Oracle Logo](oracle.png?raw=true) | ![RStudio Logo](RStudio.png?raw=true) |
 
 ### 🏆 주요 결과물
 <table>
