@@ -31,21 +31,8 @@
 - SQL,R(matplotlib)
 
 #### 🛠️ 도구 
-<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid white;">
-  <tr>
-    <td style="border: 1px solid white;">
-      <img src="oracle.png?raw=true" alt="Oracle Logo" width="120">
-    </td>
-    <td style="border: 1px solid white;">
-      <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120">
-    </td>
-  </tr>
-</table>
-
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="150" style="vertical-align: middle;">
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
-<img src="https://raw.githubusercontent.com/rstudio/rstudio/main/src/cpp/desktop/resources/icons/rstudio-logo.svg" alt="RStudio Logo" width="150" style="vertical-align: middle;">
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="120" style="vertical-align: middle;">
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="RStudio.png" alt="RStudio Logo" width="150" style="vertical-align: middle;">
 
 ### 🏆 주요 결과물
 <table>
