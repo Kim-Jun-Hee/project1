@@ -21,8 +21,8 @@
 
 ### 프로젝트 인원 및 역할
 - 총인원: 2명
-- 개인 작업: 시계열을 통한 미래 스낵시장 예측 및 과자 언급량 분석, 크롤링 코드 구현
-- 공동 작업: 리뷰 데이터 크롤링,데이터 전처리
+- 개인 작업: 영유아 수와 유아용품 물류량과의 상관관계(코로나 영향의 유무),유아용품 물류량에 대한 다중 회귀분석
+- 공동 작업: 데이터 전처리 및 통합
 <br></br>
 
 ### 사용된 기술 및 도구
@@ -43,21 +43,25 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
+    <td align="center">🌟 코로나 유무에 따른 영유아 수와 유아용품의 상관관계</td>
     <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
-    <td align="center">🌟 명절과 물류량의 관계</td>
   </tr>
   <tr>
+    <td>
+      <img src="corr.png" alt="상관관계" width="500">
+    </td>
     <td>
       <img src="return.png" alt="다중 회귀분석" width="500">
     </td>
-    <td>
-      <img src="holiday.png" alt="명절" width="500">
-    </td>
   </tr>
   <tr>
+    <td align="center">🌟 명절과 물류량의 관계</td>
     <td align="center">🌟 오배송 발생 현황 파악</td>
   </tr>
   <tr>
+    <td>
+      <img src="holiday.png" alt="명절" width="500">
+    </td>
     <td>
       <img src="error.png" alt="오배송" width="500">
     </td>
