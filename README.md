@@ -42,10 +42,6 @@
       <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120">
     </td>
   </tr>
-  <tr style="border: 1px solid white;">
-    <td style="border: 1px solid white;">Oracle</td>
-    <td style="border: 1px solid white;">RStudio</td>
-  </tr>
 </table>
 
 
