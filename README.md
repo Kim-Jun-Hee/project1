@@ -43,27 +43,23 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 SARIMA 모델로 매출 예측 (R²: 0.91)</td>
-    <td align="center">🌟 과자 리뷰를 통한 워드클라우드</td>
+    <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
+    <td align="center">🌟 명절과 물류량의 관계</td>
   </tr>
   <tr>
     <td>
-      <img src="time.png" alt="SARIMA 예측 결과" width="500">
+      <img src="return.png" alt="다중 회귀분석" width="500">
     </td>
     <td>
-      <img src="review.png" alt="워드클라우드" width="500">
+      <img src="holiday.png" alt="명절" width="500">
     </td>
   </tr>
   <tr>
-    <td align="center">🌟 언급량과 매출 간의 상관관계</td>
-    <td align="center">🌟 트렌드와 매출 간의 그랜저 인과관계</td>
+    <td align="center">🌟 오배송 발생 현황 파악</td>
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="언급량과 매출 상관관계" width="500">
-    </td>
-    <td>
-      <img src="rela.png" alt="그랜저 인과관계" width="500">
+      <img src="error.png" alt="오배송" width="500">
     </td>
   </tr>
 </table>
