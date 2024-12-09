@@ -31,14 +31,8 @@
 - SQL,R(matplotlib)
 
 #### 🛠️ 도구
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10" style="display: block;">
-  <img src="oracle.png?raw=true" alt="Oracle Logo" width="120" style="display: block;">
-  <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120" style="display: block;">
-</div>
-
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="100" style="vertical-align: middle;">
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> <img src="RStudio.png?raw=true" alt="RStudio Logo" width="100" style="vertical-align: middle;">
+| ![Oracle Logo](oracle.png?raw=true) | ![RStudio Logo](RStudio.png?raw=true) |
+|-------------------------------------|---------------------------------------|
 
 
 ### 🏆 주요 결과물
