@@ -33,6 +33,20 @@
 #### 🛠️ 도구
 | ![Oracle Logo](oracle.png?raw=true) | ![RStudio Logo](RStudio.png?raw=true) |
 |-------------------------------------|---------------------------------------|
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr style="border: 1px solid white;">
+    <td style="border: 1px solid white;">
+      <img src="oracle.png?raw=true" alt="Oracle Logo" width="120">
+    </td>
+    <td style="border: 1px solid white;">
+      <img src="RStudio.png?raw=true" alt="RStudio Logo" width="120">
+    </td>
+  </tr>
+  <tr style="border: 1px solid white;">
+    <td style="border: 1px solid white;">Oracle</td>
+    <td style="border: 1px solid white;">RStudio</td>
+  </tr>
+</table>
 
 
 ### 🏆 주요 결과물
