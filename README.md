@@ -30,9 +30,7 @@
 #### 💻 주요 기술
 - SQL,R(matplotlib)
 
-#### 🛠️ 도구
-| ![Oracle Logo](oracle.png?raw=true) | ![RStudio Logo](RStudio.png?raw=true) |
-|-------------------------------------|---------------------------------------|
+#### 🛠️ 도구 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr style="border: 1px solid white;">
     <td style="border: 1px solid white;">
