@@ -42,6 +42,9 @@
   </tr>
 </table>
 
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png)
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![RStudio Logo](https://cdn.jsdelivr.net/gh/rstudio/hex-stickers@main/SVG/rstudio.svg)
+
 
 ### 🏆 주요 결과물
 <table>
