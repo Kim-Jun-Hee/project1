@@ -40,7 +40,7 @@
 
 | ![Oracle Logo](oracle.png?raw=true) | ![RStudio Logo](RStudio.png?raw=true) |
 |-------------------------------------|---------------------------------------|
-| Oracle                              | RStudio                               |
+|                               |                                |
 
 ### 🏆 주요 결과물
 <table>
