@@ -43,7 +43,7 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 코로나 유무에 따른 영유아 수와 유아용품의 상관관계</td>
+    <td align="center">🌟 코로나 유무에 따른 유아용품 물류량의 상관관계</td>
     <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
   </tr>
   <tr>
