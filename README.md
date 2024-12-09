@@ -38,7 +38,7 @@
 </div>
 
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
-<img src="https://cdn.jsdelivr.net/gh/rstudio/hex-stickers@main/SVG/rstudio.svg" alt="Oracle Logo" width="100" style="vertical-align: middle;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png" alt="Oracle Logo" width="100" style="vertical-align: middle;">
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> 
 <img src="https://cdn.jsdelivr.net/gh/rstudio/hex-stickers@main/SVG/rstudio.svg" alt="RStudio Logo" width="100" style="vertical-align: middle;">
 
