@@ -3,7 +3,7 @@
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio1.png" width="387px" alt="SQL 포트폴리오">](SQL포트폴리오.pdf)</br>
-  👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project4/blob/main/파이썬포트폴리오.pdf)  
+  👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project1/blob/main/SQL포트폴리오.pdf)  
 <br></br>
 📥 **다운로드 안내**  
 💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
